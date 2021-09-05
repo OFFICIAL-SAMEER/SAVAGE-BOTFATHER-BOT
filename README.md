@@ -21,13 +21,12 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/deadly_spam_bot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/deadly_spammer"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/LEGACY_MULTI_SPAM_BOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/LEGACY_LEAVERS_NETWORK"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## 𝙾𝚆𝙽𝙴𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁🇮🇳](https://t.me/OFFICIAL_SAMEER)
+## 𝙾𝚆𝙽𝙴𝚁 -[CHETANYA🇮🇳](https://t.me/pro_chetanya)
 ## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[𝙳𝙰𝙽𝙸𝚂𝙷🇮🇳](https://t.me/IDANISHBAABA)
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚄𝚂𝚃𝙰𝙳🇮🇳](https://t.me/USTAD_OP)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
