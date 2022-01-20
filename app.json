@@ -10,8 +10,8 @@
         "SpamBots"
     ],
     "repository": "https://github.com/DEFENDERS2022BOY/DEFENDERS-SPAM-BOT",
-    "website": "https://t.me/LEGACY_MULTI_SPAM_BOT",
-    "success_url": "https://t.me/LEGACY_MULTI_SPAM_BOT",
+    "website": "https://t.me/DEFENDERS_SPAM_BOT",
+    "success_url": "https://t.me/DEFENDERS_NETWORK",
     "env": {
         "API_HASH": {
             "description": "You API HASH from my.telegram.org",
