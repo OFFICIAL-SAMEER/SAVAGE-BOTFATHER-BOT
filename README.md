@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/47e5954b9625f3f05c74b.jpg">
+  <img src="https://telegra.ph/file/f99238a38e9717e41ac85.jpg">
 </p>
 
 
@@ -21,15 +21,15 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/LEGACY_MULTI_SPAM_BOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/LEGACY_LEAVERS_NETWORK"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/DEFENDERS_SPAM_BOT""><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/DEFENDERS_NETWORK"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## 𝙾𝚆𝙽𝙴𝚁 -[CHETANYA🇮🇳](https://t.me/pro_chetanya)
-## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[𝙳𝙰𝙽𝙸𝚂𝙷🇮🇳](https://t.me/IDANISHBAABA)
+## 𝙾𝚆𝙽𝙴𝚁 -[DEFENDERS BOY🇮🇳](https://t.me/TANDAV_X_MAHADEV_BAM_BHOLE)
+## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[KAAL RIDER🇮🇳](https://t.me/ITS_HEAVEN_KING)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGACY-LEAVERS-TEAM/LEGACY-X-SPAM-BOT.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DEFENDERS2022BOY/DEFENDERS-SPAM-BOT.git)
 ------------------------------------------------
 
