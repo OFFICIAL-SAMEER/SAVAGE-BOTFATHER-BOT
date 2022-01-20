@@ -1,5 +1,5 @@
 {
-    "name": "Legacy X Spam Bot ",
+    "name": "Defenders X Spam Bot ",
     "description": "Best Spamming Bots",
     "logo": "https://telegra.ph/file/8626f33867fc155eaa404.jpg",
     "keywords": [
@@ -9,7 +9,7 @@
         "Ustad-op",
         "SpamBots"
     ],
-    "repository": "https://t.me/LEGACY_MULTI_SPAM_BOT",
+    "repository": "https://github.com/DEFENDERS2022BOY/DEFENDERS-SPAM-BOT",
     "website": "https://t.me/LEGACY_MULTI_SPAM_BOT",
     "success_url": "https://t.me/LEGACY_MULTI_SPAM_BOT",
     "env": {
