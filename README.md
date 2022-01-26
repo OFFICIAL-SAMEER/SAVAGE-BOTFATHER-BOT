@@ -21,8 +21,8 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/DEFENDERS_SPAM_BOT""><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/DEFENDERS_NETWORK"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/KAAL_TORNADO_SPAM_BOT""><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/KAAL_TORNADO_NETWORK"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 ## 𝙾𝚆𝙽𝙴𝚁 -[DEFENDERS BOY🇮🇳](https://t.me/TANDAV_X_MAHADEV_BAM_BHOLE)
@@ -30,6 +30,6 @@
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DEFENDERS2022BOY/DEFENDERS-SPAM-BOT.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KAAL-TORNADO/KAAL-TORNADO-SPAM-BOT.git)
 ------------------------------------------------
 
