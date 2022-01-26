@@ -1,7 +1,7 @@
 {
     "name": "KAAL TORNADO SPAM BOT ",
     "description": "Best Spamming Bots",
-    "logo": "https://telegra.ph/file/8626f33867fc155eaa404.jpg",
+    "logo": "https://telegra.ph/file/90d63533921d1d997e45a.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -9,9 +9,9 @@
         "Ustad-op",
         "SpamBots"
     ],
-    "repository": "https://github.com/DEFENDERS2022BOY/DEFENDERS-SPAM-BOT",
+    "repository": "https://github.com/KAAL-TORNADO/KAAL-TORNADO-SPAM-BOT",
     "website": "https://t.me/DEFENDERS_SPAM_BOT",
-    "success_url": "https://t.me/DEFENDERS_NETWORK",
+    "success_url": "https://t.me/KAAL_TORNADO_NETWORK",
     "env": {
         "API_HASH": {
             "description": "You API HASH from my.telegram.org",
