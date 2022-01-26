@@ -26,7 +26,7 @@
 
 -------------------------------------------------
 ## 𝙾𝚆𝙽𝙴𝚁 -[DEFENDERS BOY🇮🇳](https://t.me/TANDAV_X_MAHADEV_BAM_BHOLE)
-## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[KAAL RIDER🇮🇳](https://t.me/ITS_HEAVEN_KING)
+## 𝙾𝚆𝙽𝙴𝚁 -[KAAL RIDER🇮🇳](https://t.me/ITS_HEAVEN_KING)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
