@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/08993e43067a6451c450f.jpg">
+  <img src="https://telegra.ph/file/6d74a785d1432b2cb7ebc.jpg">
 </p>
 
 
@@ -21,14 +21,14 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/MAHADEV_TORNADO_SPAM_BOT""><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/MAHADEV_TORNADO_NETWORK"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/savage_spam_bots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Savage_Bot_Updates"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## 𝙾𝚆𝙽𝙴𝚁 -[DEFENDERS BOY🇮🇳](https://t.me/TANDAV_X_MAHADEV_BAM_BHOLE)
+## 𝙾𝚆𝙽𝙴𝚁 -[SAVAGE SAMEER](https://t.me/OFFICIAL_SAMEER)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MAHADEV-TORNADO/MAHADEV-TORNADO-SPAM-BOT.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SRIDHAR2021SIDDHARTH/SAVAGE-MULTISPAM-BOT.git)
 ------------------------------------------------
 
